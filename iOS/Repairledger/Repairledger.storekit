@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "prod1",
+      "localizations": [
+        {
+          "description": "Per-asset (home/car) cost totals and vendor history",
+          "displayName": "Repairledger Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "repairledger_pro",
+      "referenceName": "Repairledger Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
